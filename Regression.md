@@ -6,4 +6,4 @@
   + ***input:*** thông tin về bộ phim (chi phí sx, chi phí quảng cáo, đạo diễn, doanh thu của các bộ phim trước đó của đạo diễn đó, diễn viên,...)
   + ***output:*** doanh thu có thể đạt được
   + ***data:*** lấy thông tin từ các nhà sản xuất phim, trang web phim --> chắt lọc, chọn ra những thông tin thiết yếu, quan trọng
-### 3. Dự đoán lợi nhuận khi thu hoạch tiêu
+### 3. Dự đoán sản lượng, lợi nhuận khi thu hoạch tiêu
